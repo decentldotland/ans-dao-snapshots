@@ -1,0 +1,32 @@
+{
+  "name": "ans-dao-snapshots",
+  "version": "0.0.1",
+  "description": "snapshots archive and distribution script for ANS token holders",
+  "main": "./src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/decentldotland/ans-dao-snapshots.git"
+  },
+  "keywords": [
+    "ANS",
+    "token",
+    "snapshots"
+  ],
+  "author": "charmful0x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/decentldotland/ans-dao-snapshots/issues"
+  },
+  "homepage": "https://github.com/decentldotland/ans-dao-snapshots#readme",
+  "dependencies": {
+    "arseeding-js": "^0.0.28",
+    "axios": "^1.4.0",
+    "dotenv": "^16.1.4",
+    "ethers": "^5.7.0",
+    "everpay": "^0.6.0"
+  }
+}
