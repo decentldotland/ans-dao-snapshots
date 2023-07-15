@@ -11,6 +11,7 @@
 | Date  | Snapshot | Snapshot TXID |
 | ------------- |:-------------:| :-------------:|
 | 15-06-2023      | [computed snapshot](./snapshots/genesis/ans_computed.json)     | [m4glIqFkh4OD8IYDHxcYzVjIjUqSU0pi40YcF_wL1Xg](https://arseed.web3infra.dev/m4glIqFkh4OD8IYDHxcYzVjIjUqSU0pi40YcF_wL1Xg) |
+| 15-07-2023      | [computed snapshot](./snapshots/15-07-2023/ans_computed.json)     | [EJUKjDE7Ldgqm6p5bf-jd7PwCFSYTGpQ5k3paEFtlAI](https://arweave.net/EJUKjDE7Ldgqm6p5bf-jd7PwCFSYTGpQ5k3paEFtlAI) |
 
 
 ## License
